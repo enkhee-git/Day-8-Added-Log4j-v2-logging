@@ -1,0 +1,7 @@
+2024-03-15 14:30:45.123 [main] INFO  sales.SalesSystemGUI 
+2024-03-15 14:30:45.456 [main] INFO  sales.SalesSystemGUI 
+2024-03-15 14:30:50.789 [main] INFO  sales.SalesSystemGUI 
+2024-03-15 14:31:05.321 [main] INFO  sales.SalesSystemGUI
+2024-03-15 14:31:10.654 [main] INFO  sales.SalesSystemGUI
+2024-03-15 14:31:20.987 [AWT-EventQueue-0] INFO  sales.SalesSystemGUI
+2024-03-15 14:31:25.135 [AWT-EventQueue-0] WARN  sales.SalesSystemGUI
